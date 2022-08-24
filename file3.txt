@@ -1,2 +1,2 @@
-file3
+change string for test conflict 2
 add new string for test conflict
