@@ -4,4 +4,4 @@ add new string for test conflict
 добавили кнопку
 чудеса перед stash
 new contact
-
+file4 added
