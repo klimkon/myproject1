@@ -1,4 +1,4 @@
-new string for test conflict2
+again fixed string for test conflict2
 add new string for test conflict
 выберите способ доставки
 добавили кнопку
