@@ -2,5 +2,3 @@ new string for test conflict2
 выберите способ доставки
 добавили кнопку
 чудеса перед stash
-new contact
-file4 added
