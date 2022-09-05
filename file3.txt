@@ -2,3 +2,4 @@ new string for test conflict2
 выберите способ доставки
 добавили кнопку
 чудеса перед stash
+test revert
