@@ -5,3 +5,4 @@ add new string for test conflict
 добавили кнопку
 чудеса перед stash
 test revert
+work in PyCharm
